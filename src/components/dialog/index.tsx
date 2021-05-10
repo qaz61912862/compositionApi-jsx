@@ -51,10 +51,6 @@ export default defineComponent({
               }
             }
           >close</el-button>
-          {/* <el-dialog
-            v-model={this.value}
-            destroy-on-close={true}
-          >dialog</el-dialog> */}
         </div>
       )
     )
